@@ -1,0 +1,14 @@
+{
+  "name": "myproject",
+  "version": "1.0.0",
+  "description": "simple app to test node js and mongo",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "vinod karadiya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
